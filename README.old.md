@@ -1,2 +1,2 @@
 # my-react-app
- w3schools tutorial setup
+ w3schools tutorial
